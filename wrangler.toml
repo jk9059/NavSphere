@@ -10,6 +10,6 @@ GITHUB_ID = "Ov23liBHSSiVT1KZOV5s"
 GITHUB_OWNER = "jk9059"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.veladev.cc/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.veladev.cc"
+NEXTAUTH_URL = "https://velanav.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://velanav.pages.dev"
 
