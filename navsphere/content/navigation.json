@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761566415652",
+      "title": "自部署服务",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
