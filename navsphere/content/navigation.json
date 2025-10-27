@@ -6,7 +6,16 @@
       "icon": "LayoutList",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1761566449095",
+          "title": "Rustdesk API",
+          "href": "https://rustdesk.veladev.cc",
+          "description": "",
+          "icon": "https://rustdesk.veladev.cc/./favicon.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
