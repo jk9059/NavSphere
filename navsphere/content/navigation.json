@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1761566415652",
+      "title": "自部署服务",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -809,15 +818,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761566415652",
-      "title": "自部署服务",
-      "icon": "LayoutList",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
